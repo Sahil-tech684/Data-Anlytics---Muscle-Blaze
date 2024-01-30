@@ -1,6 +1,6 @@
-MuscleBlaze Whey Protein – Data Analysis
+Title: MuscleBlaze Whey Protein – Data Analysis
 
-Problem Statement:Identification of features essential for the success of Muscle Blaze's new protein product through data analytics.
+Problem Statement: Identification of features essential for the success of Muscle Blaze's new protein product through data analytics.
 
 Methodology:
 1. Scraping data from the official Muscle Blaze site to gather relevant information.
